@@ -1,4 +1,4 @@
-<img src="assets/GitHub_AyushLal_Banner.jpg" alt="Ayush Lal Banner">
+<img src="GitHub_AyushLal_Banner.jpg" alt="Ayush Lal Banner">
 
 ## Hi There 👋
 
