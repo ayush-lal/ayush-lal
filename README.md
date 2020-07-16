@@ -1,4 +1,4 @@
-<img src="GitHub_AyushLal_Banner.jpg" alt="Ayush Lal Banner">
+![Ayush Lal Banner Image](https://github.com/ayush-lal/ayush-lal/blob/master/GitHub_AyushLal_Banner.jpg?raw=true)
 
 ## Hi There 👋
 
