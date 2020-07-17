@@ -1,6 +1,4 @@
-![Ayush Lal Banner Image](https://github.com/ayush-lal/ayush-lal/blob/master/GitHub_AyushLal_Banner.jpg?raw=true)
-
-![Ayush Lal Banner Image](https://github.com/ayush-lal/ayush-lal/blob/master/assets/GitHub_AyushLal_Banner3.jpg?raw=true)
+![Ayush Lal Banner Image](https://github.com/ayush-lal/ayush-lal/blob/master/assets/GitHub_AyushLal_Banner.jpg?raw=true)
 
 ## Hi There 👋
 
