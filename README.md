@@ -44,10 +44,11 @@ My name is Ayush and I'm Software Developer based in Gold Coast, Australia. Here
   <img alt=".net" src="https://img.shields.io/badge/-.NET/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
-<br><br>
+<br>
 
 ### Tools:
 
+<p>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
@@ -67,7 +68,8 @@ My name is Ayush and I'm Software Developer based in Gold Coast, Australia. Here
   <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="sqlserver" src="https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-<br><br>
+</p>
+<br>
 
 ---
 
