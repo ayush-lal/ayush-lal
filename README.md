@@ -44,8 +44,6 @@ My name is Ayush and I'm Software Developer based in Gold Coast, Australia. Here
   <img alt=".net" src="https://img.shields.io/badge/-.NET/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
-<br>
-
 ### Tools:
 
 <p>
@@ -69,7 +67,6 @@ My name is Ayush and I'm Software Developer based in Gold Coast, Australia. Here
   <img alt="sqlserver" src="https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
-<br>
 
 ---
 
