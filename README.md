@@ -20,7 +20,6 @@ My name is Ayush and I'm Software Developer based in Gold Coast, Australia. Here
 <a href="https://www.linkedin.com/in/ayushlal98" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.ayushlal.dev" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-1a202c?&style=for-the-badge&logo=angellist&logoColor=white" /></a>
 <a href="https://github.com/ayush-lal" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<br><br>
 
 ### Languages & Frameworks:
 
