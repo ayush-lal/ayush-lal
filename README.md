@@ -12,7 +12,6 @@ My name is Ayush and I'm Software Developer based in Gold Coast, Australia. Here
 - 🔭 I’m currently working on freelance projects & building my portfolio website
 - 🌱 I’m currently learning C#, TypeScript & SQL
 - 📫 Email me at: ayush.lal@outlook.com or connect with me below:
-  <br><br>
 
 ### Connect with me:
 
