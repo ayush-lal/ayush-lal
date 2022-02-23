@@ -24,6 +24,7 @@ My name is Ayush and I'm Software Developer based in Gold Coast, Australia. Here
 
 ### Languages & Frameworks:
 
+<p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-E8D44D?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />  <img alt="tailwindcss" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
@@ -41,6 +42,7 @@ My name is Ayush and I'm Software Developer based in Gold Coast, Australia. Here
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="jest" src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img alt=".net" src="https://img.shields.io/badge/-.NET/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
 
 <br><br>
 
