@@ -70,3 +70,5 @@ My name is Ayush and I'm Software Developer based in Gold Coast, Australia. Here
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-lal&layout=compact&theme=cobalt)](https://github.com/ayush-lal)
+
+![Ayush Lal Banner Image](assets/test.png)
