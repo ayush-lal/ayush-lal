@@ -1,10 +1,3 @@
-<!--
-GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
-Icons: https://icons8.com
- -->
-
-<!-- ![Ayush Lal Banner Image](https://github.com/ayush-lal/ayush-lal/blob/master/assets/GitHub_AyushLal_Banner.jpg?raw=true) -->
-
 # Hello there! 😃
 
 My name is Ayush and I'm Software Developer based in Gold Coast, Australia. Here's a little bit about me and what I'm currently working on:
@@ -66,9 +59,8 @@ My name is Ayush and I'm Software Developer based in Gold Coast, Australia. Here
   <img alt="sqlserver" src="https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
+<hr>
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-lal&layout=compact&theme=cobalt)](https://github.com/ayush-lal)
-
-![Ayush Lal Banner Image](https://github.com/ayush-lal/ayush-lal/blob/master/assets/stats.png?raw=true)
+<div style="text-align: center">
+  <img alt="github stats" src="https://github.com/ayush-lal/ayush-lal/blob/master/assets/stats.png?raw=true">
+</div>
