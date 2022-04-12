@@ -61,6 +61,6 @@ My name is Ayush and I'm Software Developer based in Gold Coast, Australia. Here
 </p>
 <hr>
 
-<div style="text-align: center">
+<p align="center">
   <img alt="github stats" src="https://github.com/ayush-lal/ayush-lal/blob/master/assets/stats.png?raw=true">
-</div>
+</p>
