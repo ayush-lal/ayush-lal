@@ -1,6 +1,6 @@
 # Hello there! 😃
 
-My name is Ayush and I'm Software Developer based in Gold Coast, Australia. Here's a little bit about me and what I'm currently working on:
+My name is Ayush and I'm a Software Developer based in Gold Coast, Australia. Here's a little bit about me and what I'm currently working on:
 
 - 🔭 I’m currently working on freelance projects & building my portfolio website
 - 🌱 I’m currently learning C#, TypeScript & SQL
