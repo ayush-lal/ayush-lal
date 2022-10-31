@@ -1,12 +1,6 @@
-# Hello there! 😃
-
-My name is Ayush and I'm a Software Developer based in Gold Coast, Australia. Here's a little bit about me and what I'm currently working on:
-
-- 🔭 I’m currently working on freelance projects & building my portfolio website
-- 🌱 I’m currently learning C#, TypeScript & SQL
-- 📫 Email me at: ayush.lal@outlook.com or connect with me below:
-
-### Connect with me:
+- 💼 Feel free to checkout my [portfolio](https://ayushlal.dev) website
+- 🚀 Full Stack Software Developer based in Gold Coast, Australia
+- ⚡️ Connect with me below:
 
 <a href="mailto:ayush.lal@outlook.com" target="_blank"><img alt="github" src="https://img.shields.io/badge/email-0078D4?&style=for-the-badge&logo=minutemailer&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ayushlal98" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
