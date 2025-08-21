@@ -1,4 +1,4 @@
-- 🚀 Full Stack Software Developer based in Gold Coast, Australia
+- 🚀 Full Stack Software Developer based in Brisbane, Australia
 - 💼 Feel free to checkout my [portfolio](https://ayushlal.dev) website
 - ⚡️ Connect with me below:
 
